@@ -79,3 +79,10 @@ Educational project developed for learning and demonstrating Java and database i
 **Shagun Gupta**
 
 GitHub: [@gshagun16](https://github.com/gshagun16)
+
+
+## Screenshots
+
+### Main Menu
+![SkillSwap Main Menu](screenshots/main-menu.png)
+
