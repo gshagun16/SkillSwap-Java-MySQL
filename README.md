@@ -81,8 +81,16 @@ Educational project developed for learning and demonstrating Java and database i
 GitHub: [@gshagun16](https://github.com/gshagun16)
 
 
+
 ## Screenshots
 
 ### Main Menu
-![SkillSwap Main Menu](screenshots/main-menu.png)
+![SkillSwap Main Menu](screenshot/skillop.png)
+
+### User Registration and Login
+![SkillSwap Registration and Login](screenshot/skillop2.png)
+
+### Skill Management
+![SkillSwap Skill Management](screenshot/skillop3.png)
+
 
