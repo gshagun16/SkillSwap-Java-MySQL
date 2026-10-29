@@ -1,0 +1,7 @@
+
+bin/
+.settings/
+*.class
+.env
+.env.*
+!.env.example
