@@ -94,8 +94,5 @@ GitHub: [@gshagun16](https://github.com/gshagun16)
 ![SkillSwap Skill Management](screenshot/skillop3.png)
 
 
-## Live Demo
-
-https://gshagun16.github.io/SkillSwap-Java-MySQL/
 
 
